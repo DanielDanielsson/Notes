@@ -4,25 +4,25 @@ title: What is a digital garden?
 
 A digital garden is what happens when you stop treating your notes like a filing cabinet and start treating them like a thinking tool.
 
-The term comes from the contrast with blogs. Blogs are streams - chronological, polished, written for an audience. You publish something and it floats downstream, becoming increasingly irrelevant. A garden is different. You plant ideas, tend them, let them grow. Some wither. Others spread in unexpected directions. The good ones get refined over years.
+The term comes from the contrast with blogs. Blogs are streams. Chronological, polished, written for an audience. You publish something and it floats downstream, becoming increasingly irrelevant. A garden is different. You plant ideas, tend them, let them grow. Some wither. Others spread in unexpected directions. The good ones get refined over years.
 
 ## Why bother?
 
-Most of what we read disappears. We consume articles, books, videos - and retain almost nothing. A digital garden fights this by forcing you to actually process information. When you write a note about something, you have to understand it well enough to explain it. When you link it to other notes, you start seeing patterns you'd otherwise miss.
+Most of what we read disappears. We consume articles, books, videos, and retain almost nothing. A digital garden fights this by forcing you to actually process information. When you write a note about something, you have to understand it well enough to explain it. When you link it to other notes, you start seeing patterns you'd otherwise miss.
 
-There's also something freeing about publishing incomplete thoughts. Blogs create pressure to be definitive. Gardens let you say "here's what I'm thinking right now" and update it later when you learn more. The note you're reading might be years old or written yesterday - what matters is whether it's useful, not when it was posted.
+There's also something freeing about publishing incomplete thoughts. Blogs create pressure to be definitive. Gardens let you say "here's what I'm thinking right now" and update it later when you learn more. The note you're reading might be years old or written yesterday. What matters is whether it's useful, not when it was posted.
 
 ## How it differs from a blog
 
 Blogs organize by time. Gardens organize by topic and connection. In a blog, your best writing gets buried under newer posts. In a garden, your best thinking stays accessible and continues to evolve.
 
-Gardens also don't demand the same polish. A blog post feels like a performance - you're presenting finished thoughts to an audience. A garden note can be a half-formed question, a collection of quotes, a working theory. It's thinking out loud.
+Gardens also don't demand the same polish. A blog post feels like a performance. You're presenting finished thoughts to an audience. A garden note can be a half-formed question, a collection of quotes, a working theory. It's thinking out loud.
 
 ## The tools
 
 You need two things: something to write notes in, and optionally something to publish them.
 
-For writing, **Obsidian** is the current favorite - local markdown files with good linking. **Logseq** does something similar with an outliner approach. **Roam Research** pioneered a lot of these ideas but requires a subscription and stores your data on their servers.
+For writing, **Obsidian** is the current favorite. Local markdown files with good linking. **Logseq** does something similar with an outliner approach. **Roam Research** pioneered a lot of these ideas but requires a subscription and stores your data on their servers.
 
 For publishing, I use [[My digital garden stack|Obsidian with Quartz]]. Other options include Obsidian Publish (paid, but dead simple) or various static site generators if you want more control.
 
